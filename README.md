@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I blog about geek things at [https://terminaladdict.com/](https://terminaladdict.com)  
-I blog about my life at [https://www.loudas.com/](https://www.loudas.com)  
+I blog about geek things at [TerminalAddict.com - Linux and Sys Admin tips and tricks](https://terminaladdict.com)  
+I blog about my life at [Loudas - The life and times of Paul Willard](https://www.loudas.com)  
 
 You can learn about my employment history at [https://www.paulwillard.nz/](https://www.paulwillard.nz)  
 

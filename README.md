@@ -3,7 +3,7 @@
 I blog about geek things at [TerminalAddict.com - Linux and Sys Admin tips and tricks](https://terminaladdict.com)  
 I blog about my life at [Loudas - The life and times of Paul Willard](https://www.loudas.com)  
 
-You can learn about my employment history at [https://www.paulwillard.nz/](https://www.paulwillard.nz)  
+You can learn about my employment history at [Paul Willard .nz](https://www.paulwillard.nz)  
 
 - 📫 How to reach me: [Check my contact details](https://www.paulwillard.nz/contact.html) 
 - ⚡ Fun fact: I like tropical fishes

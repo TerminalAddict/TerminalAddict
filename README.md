@@ -6,7 +6,7 @@ I blog about my life at [Loudas - The life and times of Paul Willard](https://ww
 You can learn about my employment history at [Paul Willard .nz](https://www.paulwillard.nz)  
 
 - 📫 How to reach me: [Check my contact details](https://www.paulwillard.nz/contact.html) 
-- ⚡ Fun fact: I like tropical fishes
+- 🐠 Fun fact: I like tropical fishes
 
 <!--
 **TerminalAddict/TerminalAddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
